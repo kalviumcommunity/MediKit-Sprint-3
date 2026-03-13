@@ -1,40 +1,31 @@
 # Understanding the Data Science Lifecycle: Question → Data → Insight
 
-## 1. Explaining the Lifecycle
+## Explaining the Lifecycle
 
-In data science, every project starts with a clear question. A well-defined question helps us understand what problem we want to solve. Without a clear question, analyzing data may lead to confusing or meaningless results.
+In data science, every project begins with a clear question. The question defines the problem we want to solve and helps guide the entire analysis process. Without a clear question, analyzing data may lead to meaningless results.
 
 Once the question is defined, the next step is understanding the data. Data acts as evidence that helps answer the question. It is important to understand where the data comes from, what each column represents, and whether the data contains missing values, inconsistencies, or biases.
 
-After understanding the data, the next step is exploration. This process is called Exploratory Data Analysis (EDA). During this stage, we analyze patterns, trends, and relationships in the data using statistics and visualizations.
+After understanding the data, we explore it using exploratory data analysis (EDA). This helps identify patterns, trends, and relationships in the data.
 
-Finally, we convert observations into insights. Insights are meaningful conclusions that help decision-makers understand the problem and take better actions. In simple terms, the lifecycle moves from asking the right question, analyzing relevant data, and generating insights that support decision-making.
+Finally, observations from the data are converted into insights. Insights help decision-makers understand the problem better and make informed decisions.
 
 ---
 
-# 2. Applying the Lifecycle to a Project Context
-
-## Project: Medikit – Disease Pattern Analysis for Community Clinics
+## Project Context: Medikit – Disease Pattern Analysis
 
 ### Question
+Can data analysis help small community clinics identify seasonal disease outbreaks and common symptoms early?
 
-Can data analysis help small community clinics identify common symptoms and detect seasonal disease outbreaks early?
+### Data
+The data may come from clinic records such as:
+- Patient symptoms
+- Visit dates
+- Diagnosis
+- Age group
+- Location
 
-### Data Needed
-
-The data could come from clinic records, patient reports, or healthcare surveys. The dataset might include:
-
-* Patient symptoms
-* Date of clinic visit
-* Age group
-* Diagnosis
-* Location of clinic
-
-This data represents patient health information collected over time and can help identify disease patterns.
+This data represents patient health information collected over time.
 
 ### Insight
-
-By analyzing the data, we may discover patterns such as certain diseases increasing during specific seasons or particular symptoms appearing frequently together. These insights can help doctors detect diseases earlier and plan treatment more effectively for patients.
-
----
-
+By analyzing the data, clinics may identify patterns such as certain diseases increasing during specific seasons or symptoms appearing frequently together. These insights can help doctors diagnose diseases earlier and plan treatments effectively.
