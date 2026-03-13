@@ -1,1 +1,0 @@
-# MediKit-Sprint-3
