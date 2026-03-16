@@ -29,3 +29,23 @@ This data represents patient health information collected over time.
 
 ### Insight
 By analyzing the data, clinics may identify patterns such as certain diseases increasing during specific seasons or symptoms appearing frequently together. These insights can help doctors diagnose diseases earlier and plan treatments effectively.
+
+
+## 4.6 
+
+## Data Science Environment Setup
+
+**Operating System:** Windows  
+**Python Version:** Python 3.13.9  
+**Conda Environment:** base  
+
+### Installation
+1. Installed Python and Anaconda using the Windows 64-bit installer from https://www.anaconda.com/download.
+2. Opened Anaconda Prompt after installation.
+
+### Verification
+
+```bash
+python --version
+conda --version
+conda env list
