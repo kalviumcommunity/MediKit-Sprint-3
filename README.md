@@ -49,3 +49,19 @@ By analyzing the data, clinics may identify patterns such as certain diseases in
 python --version
 conda --version
 conda env list
+
+# Jupyter Notebook Setup
+
+## Objective
+To learn how to launch and use Jupyter Notebook and understand its interface.
+
+## Tasks Done
+- Launched Jupyter Notebook using Anaconda Prompt  
+- Explored the Home interface  
+- Navigated folders  
+- Created and renamed a notebook  
+- Ran a simple Python code  
+
+## Code
+```python
+print("Hello Data Science!!")
