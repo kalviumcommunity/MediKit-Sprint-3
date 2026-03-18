@@ -65,3 +65,20 @@ To learn how to launch and use Jupyter Notebook and understand its interface.
 ## Code
 ```python
 print("Hello Data Science!!")
+
+
+# Code vs Markdown Cells
+
+## Overview
+This notebook demonstrates the difference between Code cells and Markdown cells in Jupyter Notebook.
+
+## Key Points
+- Code cells are used to run Python code
+- Markdown cells are used to explain the code
+- Proper structure improves readability
+
+## File
+- code-vs-markdown-demo.ipynb
+
+## Conclusion
+Using Code and Markdown separately makes notebooks clear and easy to understand.
