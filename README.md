@@ -82,3 +82,13 @@ This notebook demonstrates the difference between Code cells and Markdown cells 
 
 ## Conclusion
 Using Code and Markdown separately makes notebooks clear and easy to understand.
+
+
+# Jupyter Kernel Management
+
+This project demonstrates how to manage Jupyter Notebook kernels effectively.  
+It shows how running cells in order affects execution and variable usage.  
+Kernel restart is used to reset the notebook state and clear variables.  
+Interrupt functionality helps stop long-running or stuck executions safely.  
+These practices ensure reproducibility and consistent notebook behavior.
+![jupyter with error](jupyter.png)
